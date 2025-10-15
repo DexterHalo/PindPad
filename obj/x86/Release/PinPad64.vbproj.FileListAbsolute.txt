@@ -1,0 +1,313 @@
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\PinPad64.exe.config
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\PinPad64.exe
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\PinPad64.pdb
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\Cklass.Net.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\EglobalBBVA.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\stdole.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\ADODB.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\es\CrystalDecisions.Shared.resources.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.exe.config
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.vbproj.GenerateResource.Cache
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.exe
+C:\Users\rlopez\Source\Workspaces\DESARROLLO\SUCURSAL\VT\PinPad64_07NOV2018_BancomerPuntos\PinPad64\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\EGlobal.TotalPosSDKNet.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\EGlobal.TotalPosSDKNet.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Downloads\PinPad\PinPad64-Final\PinPad64\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PinPad64_041121\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PinPad64_091121-Final\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - copia\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 25-11-2021 544\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\PinPad64.exe.config
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Cklass.Net.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\stdole.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\ADODB.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.Shared.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\CrystalDecisions.ReportSource.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\bin\Release\es\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.vbproj.CopyComplete
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.exe
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.pdb
+C:\Users\fernanda.hinojosa\Documents\PROYECTOS\TOTAL POS\PinPad64-TotalPos - 26-11-2021\obj\x86\Release\PinPad64.vbprojAssemblyReference.cache
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.vbprojAssemblyReference.cache
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.exe.config
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.Configuracion.resources
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.frmClientes.resources
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.frmPinPad.resources
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.frmRetiro.resources
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.Resources.resources
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.vbproj.GenerateResource.cache
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.exe.licenses
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.vbproj.CoreCompileInputs.cache
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.exe
+C:\Users\oscar.amaro\Documents\Proyectos\0-YazminRoque\PinPad64-TotalPos - 30-11-2021\PinPad64-TotalPos - 30-11-2021\obj\x86\Release\PinPad64.pdb
