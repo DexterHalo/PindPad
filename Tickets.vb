@@ -119,8 +119,112 @@ Public Class Tickets
         End Try
         Return resultado.ToString
     End Function
+    Public Function TicketHSBC(ByVal pOpcion As String, ByVal response As SaleResponse) As String
+        Dim resultado As New StringBuilder("")
+        Try
+            resultado.AppendLine(ckNet.StrCEN("HSBC FECHA " & Format(Now.Date, "dd/MMM/yy").ToUpper & " HORA " & Format(Now, "HH:mm"), 40))
+            resultado.AppendLine(ckNet.StrCEN("CKLASS " & cklassSuc.Sucursal, 40))
+            resultado.AppendLine(ckNet.StrCEN(cklassSuc.SucursalDomicilioF, 40))
+            resultado.AppendLine(ckNet.StrCEN(cklassSuc.SucursalColonia, 40))
+            resultado.AppendLine(ckNet.StrCEN(cklassSuc.SucursalCiudad, 40))
 
 
+            If response.dataResponse.descriptionResponse.Trim <> "" Then resultado.AppendLine(ckNet.StrCEN(response.dataResponse.descriptionResponse.Trim, 40))
+
+            If pOpcion = "COPIA" Then
+                resultado.AppendLine(ckNet.StrCEN(Format(Val(Mid(response.dataResponse.lastFour, 13, 4)), "XXXX XXXX XXXX 0000"), 40))
+            Else
+                resultado.AppendLine(ckNet.StrCEN(Format(Val(Mid(response.dataResponse.lastFour, 1, 8)), "0000 0000") & " " & Format(Val(Mid(response.dataResponse.lastFour, 9, 8)), "0000 0000"), 40))
+            End If
+
+            resultado.AppendLine(ckNet.StrCEN(response.dataResponse.bank & " " & response.dataResponse.brand, 40))
+            resultado.AppendLine(ckNet.StrIZQ("TIPO: " & response.dataResponse.cardType, 20))
+            resultado.AppendLine(ckNet.StrIZQ("OPERACION : " & response.dataResponse.operationType, 20))
+
+            'If Val(Operacion.Venta Like operation) Then
+            resultado.AppendLine(ckNet.StrIZQ(response.dataResponse.operationType, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("VENTA " & IIf(response.Parcializacion.ToString() <> "", response.Parcializacion.ToString() & " Meses sin intereses", "NORMAL"), 40))
+            'ElseIf Val(Operacion.CancelacionVenta) Then
+            '    resultado.AppendLine(ckNet.StrIZQ("CANCELACION " & IIf(response.Parcializacion <> "", response.Parcializacion & " Meses sin intereses", "NORMAL"), 40))
+            'End If
+
+            resultado.AppendLine(ckNet.StrDER(response.dataResponse.membership & " TOTAL M.N. " & Format(Convert.ToDouble(response.dataResponse.amount), "Currency"), 40))
+
+            'If response.Cash <> "" Then
+            '    Dim finalTotal = Convert.ToDouble(response.Importe) + Convert.ToDouble(response.Cash) '+ Convert.ToDouble(response.CashComision)
+            '    resultado.AppendLine(ckNet.StrDER("DISP. EFECTIVO " & Format(response.Cash, "Currency"), 40))
+            '    'resultado.AppendLine(ckNet.StrDER("COM. DISP. EFECTIVO " & Format(response.CashComision, "Currency"), 40))
+            '    resultado.AppendLine(ckNet.StrDER("Total a pagar " & Format(finalTotal, "Currency"), 40))
+            'End If
+
+
+            'If response.PesosRedimidos <> "" Then
+            '    resultado.AppendLine(ckNet.StrDER("Pagado con Puntos BBVA: " & Format(response.PesosRedimidos, "Currency"), 40))
+            '    resultado.AppendLine(ckNet.StrDER("Total a pagar " & Format(response.Importe - response.PesosRedimidos, "Currency"), 40))
+            'End If
+
+            'If response.CodigoRespuesta = "00" And response.Autorizacion.Trim <> "" Then
+            'resultado.AppendLine(ckNet.StrCEN("BC " & IIf(response.ModoLectura.Equals("05"), "|@1", IIf(response.ModoLectura.Equals("01"), "T1", IIf(response.ModoLectura.Equals("80") Or response.ModoLectura.Equals("90"), "D@1", "C@1"))), 40))
+            resultado.AppendLine(ckNet.StrCEN("BC " & response.dataResponse.authentication, 40))
+            resultado.AppendLine(ckNet.StrCEN("Autorizacion: " & response.dataResponse.authorizationCode, 40))
+            'Else
+            '    If Val(Operacion.Venta Like operation) Then
+            '        resultado.AppendLine(ckNet.StrCEN("***" + response.Leyenda + "***", 40))
+            '    Else
+            '        resultado.AppendLine(ckNet.StrCEN("!!!ERROR!!!", 40))
+            '    End If
+            'End If
+
+            'If response.CriptogramaTarjeta.Trim <> "" Then resultado.AppendLine(ckNet.StrCEN(response.CriptogramaTarjeta.Trim, 40))
+            'If response.IdAplicacionTarjeta.Trim <> "" Then
+            resultado.AppendLine(ckNet.StrCEN("AID: " + response.dataResponse.aid.Trim, 40))
+            'End If
+            resultado.AppendLine(ckNet.StrIZQ("Referencia: " & Format(Val(response.dataResponse.reference), "00000000"), 40))
+            resultado.AppendLine(ckNet.StrIZQ("Afiliacion: " & Format(Val(response.dataResponse.membership), "00000000"), 20) & ckNet.StrDER("Sucursal: " & Format(Val(cklassSuc.SucursalId), "0000"), 20))
+            resultado.AppendLine(ckNet.StrIZQ("Sec. Txn: " & Format(Val(response.dataResponse.arqc), "0000"), 20) & ckNet.StrDER("Terminal: " & Format(Val(ckNet.Terminal), "0000"), 20))
+
+            'If response.PesosRedimidos <> "" Then
+            '    resultado.AppendLine("")
+            '    resultado.AppendLine(ckNet.StrIZQ("PUNTOS BANCOMER", 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Saldo anterior ($): " & CInt(response.SaldoAnteriorPesos).ToString, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Saldo anterior (PTS): " & CInt(response.SaldoAnteriorPuntos).ToString, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Saldo actual pesos ($): " & CDbl(response.SaldoDisponiblePesos).ToString, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Saldo actual (PTS):   " & CInt(response.SaldoPuntosDisponibles).ToString, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Pesos redimidos ($): " & CDbl(response.PesosRedimidos).ToString, 40))
+            '    resultado.AppendLine(ckNet.StrIZQ("Redimidos (PTS):      " & CInt(response.PuntosRedimidos).ToString, 40))
+            'End If
+
+            If response.dataResponse.operationType = "VENTA" Then
+                'If response.Firma.Equals(Firma.Electronica) Then
+                '    resultado.AppendLine(ckNet.StrCEN("AUTORIZADO MEDIANTE FIRMA ELECTRONICA", 40))
+                'ElseIf response.Firma.Equals(Firma.Autografa) Then
+                '    resultado.AppendLine(ckNet.StrCEN("FIRMA __________________________________", 40))
+                '    If response.Tarjetahabiente.Trim <> "" Then resultado.AppendLine(ckNet.StrCEN(response.Tarjetahabiente.Trim, 40))
+                'Else
+                '    resultado.AppendLine(ckNet.StrCEN("AUTORIZADO SIN FIRMA", 40))
+                'End If
+
+                If pOpcion = "ORIGINAL" Then
+                    resultado.AppendLine(ckNet.StrCEN("COPIA COMERCIO", 40))
+                Else
+                    resultado.AppendLine(ckNet.StrCEN("COPIA CLIENTE", 40))
+                End If
+
+                resultado.AppendLine(ckNet.StrIZQ("POR ESTE PAGARE ME OBLIGO INCONDICIONAL", 40))
+                resultado.AppendLine(ckNet.StrIZQ("MENTE A PAGAR A LA ORDEN DEL BANCO ACRE", 40))
+                resultado.AppendLine(ckNet.StrIZQ("DITANTE EL IMPORTE DE ESTE TITULO. ESTE", 40))
+                resultado.AppendLine(ckNet.StrIZQ("PAGARE PROCEDE DEL CONTRATO DE APERTURA", 40))
+                resultado.AppendLine(ckNet.StrIZQ("DE CREDITO QUE  EL BANCO ACREDITANTE  Y", 40))
+                resultado.AppendLine(ckNet.StrIZQ("EL TARJETAHABIENTE TIENEN CELEBRADO.", 40))
+                resultado.AppendLine(ckNet.StrIZQ("PAGARE  NEGOCIABLE  UNICAMENTE", 40))
+                resultado.AppendLine(ckNet.StrIZQ("CON  INSTITUCIONES  DE CREDITO.", 40))
+            End If
+
+        Catch ex As Exception
+            Throw New Exception("Error al generar pagaré...!", ex)
+        End Try
+        Return resultado.ToString
+    End Function
     Public Function ConsultaPuntos(ByVal response As Respuesta) As String
         Dim resultado As New StringBuilder("")
         Try

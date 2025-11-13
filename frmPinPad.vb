@@ -74,6 +74,7 @@ Public Class frmPinPad
             lblSUC.Text = ckSuc.SucursalId & " " & ckSuc.Sucursal
             ckVX = New PinPadVX()
             Bandera1 = CBool(fxBandera1())
+            Token = AdministrarToken("", 0)
             If ckSuc.ValidarCaja("V", CajaId) Then
                 If ToDoAprobado Then
                     Me.Text = " MODO DE PRUEBAS TODO SERÁ APROBADO...!"
@@ -287,12 +288,31 @@ Public Class frmPinPad
             If (Token <> "") Then
                 If chkVentaNormal.Checked Then
                     If EnviarVenta(txtImporte.Text, txtPedidoId.Text) Then
+                        My.Settings.registro = txtResponse.Text
+                        My.Settings.Save()
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & "- - - - - - - - - - - - - - - - - - - -" & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Imprimir()
 
-                        ckNet.MsgInf("Cool")
                     End If
                 Else
-                    If CancelarVenta(Val(Me.grdPagos.Columns("LineaRef").Value), txtPedidoId.Text) Then
-                        EliminarPagoTarjeta(Val(Me.grdPagos.Columns("LineaRef").Value))
+                    If CancelarVenta(Val(Me.grdPagos.Columns("SecTxn").Value), txtPedidoId.Text) Then
+                        My.Settings.registro = txtResponse.Text
+                        My.Settings.Save()
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & "- - - - - - - - - - - - - - - - - - - -" & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        Me.txtResponse.Text = Me.txtResponse.Text & ControlChars.NewLine
+                        'Imprimir()
+                        'falta revisar si imprimira ticket 
                         ckNet.MsgInf("El pago se ha CANCELADO correctamente, ahora debe ir a la pantalla de pagos abra el pedido y presione F5.")
                     End If
                 End If
@@ -326,7 +346,9 @@ Public Class frmPinPad
             Dim cancelResponse As SaleResponse = JsonConvert.DeserializeObject(Of SaleResponse)(responseBody)
 
             If cancelResponse.status Then
-                ' Cancelación aprobada                
+                ' Cancelación aprobada
+                Me.txtResponse.Text = ticket.TicketHSBC("ORIGINAL", cancelResponse)
+                EliminarPagoTarjeta(Val(Me.grdPagos.Columns("LineaRef").Value))
                 Return True
             Else
                 ' Error en la cancelación
@@ -374,14 +396,15 @@ Public Class frmPinPad
 
                     ' Mostrar detalles
                     ckNet.MsgInf("✅ Venta procesada correctamente")
-                    ckNet.MsgInf($"🧾 requestId: {resultado.requestId}")
-                    ckNet.MsgInf($"💳 Tarjeta: {resultado.dataResponse.brand} {resultado.dataResponse.cardType}")
-                    ckNet.MsgInf($"🏦 ID: {resultado.dataResponse.operationNumber}")
-                    ckNet.MsgInf($"🏦 Banco: {resultado.dataResponse.bank}")
-                    ckNet.MsgInf($"💰 Monto: {resultado.dataResponse.amount}")
-                    ckNet.MsgInf($"📅 Fecha: {resultado.date} {resultado.time}")
-                    ckNet.MsgInf($"📄 Respuesta: {resultado.dataResponse.descriptionResponse}")
-                    'AgregarPagoTarjeta(resultado.dataResponse.amount, resultado.dataResponse.lastFour, resultado.dataResponse.bank, miPedido.Nombre, resultado.dataResponse.authorizationCode, resultado.dataResponse.reference, resultado.dataResponse.operationNumber, "", "", IIf(resultado.dataResponse.cardType = "DÉBITO", 0, 1))
+                    'ckNet.MsgInf($"🧾 requestId: {resultado.requestId}")
+                    'ckNet.MsgInf($"💳 Tarjeta: {resultado.dataResponse.brand} {resultado.dataResponse.cardType}")
+                    'ckNet.MsgInf($"🏦 ID: {resultado.dataResponse.operationNumber}")
+                    'ckNet.MsgInf($"🏦 Banco: {resultado.dataResponse.bank}")
+                    'ckNet.MsgInf($"💰 Monto: {resultado.dataResponse.amount}")
+                    'ckNet.MsgInf($"📅 Fecha: {resultado.date} {resultado.time}")
+                    'ckNet.MsgInf($"📄 Respuesta: {resultado.dataResponse.descriptionResponse}")
+                    Me.txtResponse.Text = ticket.TicketHSBC("ORIGINAL", resultado)
+                    AgregarPagoTarjeta(resultado.dataResponse.amount, resultado.dataResponse.lastFour, resultado.dataResponse.bank, miPedido.Nombre, resultado.dataResponse.authorizationCode, resultado.dataResponse.reference, resultado.dataResponse.operationNumber, "", "", IIf(resultado.dataResponse.cardType = "DEBITO", 0, 1))
                     Return True
                 Else
                     Dim errorBody As String = response.Content.ReadAsStringAsync().Result
@@ -1245,18 +1268,52 @@ Public Class frmPinPad
             CargarLlaves()
         Else
             Dim resultado = EnviarConfiguracion()
-            If resultado Then
-                MessageBox.Show("✅ inicialización exitosa")
+            If resultado <> "" Then
+                Token = AdministrarToken(resultado, 1)
+                If Token <> "" Then
+                    MessageBox.Show("✅ inicialización exitosa")
+                Else
+                    MessageBox.Show("❌ No se guardo el token asegurece de estar como cajero")
+                End If
             Else
                 MessageBox.Show("❌ Error en la inicialización")
             End If
         End If
     End Sub
-    Public Function EnviarConfiguracion() As Boolean
+    Private Function AdministrarToken(ByVal _token As String, ByVal _operacion As Integer) As String
+        Try
+            Dim TERM As String = ckSuc.TerminalGrupo()
+            Using cn As New SqlConnection(ckSuc.SucCnnStr())
+                Using cmd As New SqlCommand("pinpad_ConsultarToken", cn)
+                    cmd.CommandType = CommandType.StoredProcedure
+                    cmd.Parameters.Add("@Token", SqlDbType.VarChar).Value = _token
+                    cmd.Parameters.Add("@Usuario", SqlDbType.VarChar).Value = ckSuc.UsuarioId
+                    cmd.Parameters.Add("@Opr", SqlDbType.Int).Value = _operacion
+                    cn.Open()
+
+                    ' Ejecutamos y leemos el resultado
+                    Using reader As SqlDataReader = cmd.ExecuteReader()
+                        If reader.Read() Then
+                            ' Leemos la columna "token" del resultado
+                            Return reader("token").ToString()
+                        Else
+                            Return ""
+                        End If
+                    End Using
+                End Using
+            End Using
+
+        Catch ex As Exception
+            ckNet.MsgErr("Error al guardar o consultar el token de HSBC: " & ex.Message)
+            Return Nothing
+        End Try
+    End Function
+
+    Private Function EnviarConfiguracion() As String
         Try
             Dim url As String = My.Settings.ApiUrl + "/api/Configurations"
             Dim client As New HttpClient()
-
+            Dim key As String
             ' Crear el objeto de solicitud
             Dim requestData As New With {
             .comPort = "COM3",
@@ -1278,7 +1335,7 @@ Public Class frmPinPad
                 Dim resultado = JsonConvert.DeserializeObject(Of RespuestaConfiguracion)(responseBody)
 
                 ' Guardar el token globalmente
-                Token = resultado.token
+                key = resultado.token
 
                 Console.WriteLine("✅ Token recibido correctamente.")
                 Console.WriteLine("🔑 " & Token)
@@ -1286,25 +1343,25 @@ Public Class frmPinPad
                 url = My.Settings.ApiUrl + "/api/Init"
                 ' Agregar encabezado Authorization
                 client.DefaultRequestHeaders.Clear()
-                client.DefaultRequestHeaders.Add("Authorization", "Bearer " & Token)
+                client.DefaultRequestHeaders.Add("Authorization", "Bearer " & key)
                 ' Si quieres reenviar la petición (como en tu código original)
                 response = client.GetAsync(url).Result
 
                 If response.IsSuccessStatusCode Then
                     responseBody = response.Content.ReadAsStringAsync().Result
-                    Return True
+                    Return key
                 Else
                     ckNet.MsgInf("❌ Error en la inicialización: " & response.StatusCode.ToString())
-                    Return False
+                    Return ""
                 End If
             Else
                 ckNet.MsgInf("❌ Error en la configuración: " & response.StatusCode.ToString())
-                Return False
+                Return ""
             End If
 
         Catch ex As Exception
             ckNet.MsgInf("⚠️ Excepción: " & ex.Message)
-            Return False
+            Return ""
         End Try
     End Function
     Private Sub CargarLlaves()

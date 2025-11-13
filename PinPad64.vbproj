@@ -164,6 +164,7 @@
     <Compile Include="ApiHSBC.vb" />
     <Compile Include="PinPadVX.vb" />
     <Compile Include="Settings.vb" />
+    <Compile Include="TicketsHSBC.vb" />
     <Compile Include="Tickets.vb" />
   </ItemGroup>
   <ItemGroup>

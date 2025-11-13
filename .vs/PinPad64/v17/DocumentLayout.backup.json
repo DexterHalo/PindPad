@@ -3,35 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmpinpad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|c:\\users\\martin.rodriguez\\documents\\github\\pindpad\\frmpinpad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:frmpinpad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\ticketshsbc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:ticketshsbc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmpinpad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:frmpinpad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|c:\\users\\martin.rodriguez\\documents\\github\\pindpad\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PinPad64||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|c:\\users\\martin.rodriguez\\documents\\github\\pindpad\\apihsbc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:apihsbc.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\my project\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:my project\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|c:\\users\\martin.rodriguez\\documents\\github\\pindpad\\my project\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:my project\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+      "AbsoluteMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\tickets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CC28945-8218-4C0F-BD2C-F3DA07CB5FEA}|PinPad64.vbproj|solutionrelative:tickets.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,96 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PinPad64",
-              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\PinPad64.vbproj",
-              "RelativeDocumentMoniker": "PinPad64.vbproj",
-              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\PinPad64.vbproj",
-              "RelativeToolTip": "PinPad64.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-15T21:04:12.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Settings.vb",
-              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Settings.vb",
-              "RelativeDocumentMoniker": "Settings.vb",
-              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Settings.vb",
-              "RelativeToolTip": "Settings.vb",
-              "ViewState": "AgIAACYBAAAAAAAAAAAvwDYBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-15T19:13:17.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmPinPad.vb",
               "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmPinPad.vb",
               "RelativeDocumentMoniker": "frmPinPad.vb",
               "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmPinPad.vb",
               "RelativeToolTip": "frmPinPad.vb",
-              "ViewState": "AgIAAP4BAAAAAAAAAAA0wAUCAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACABAAAAAAAAAAAwwDkBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-14T16:12:21.537Z",
+              "WhenOpened": "2025-10-20T21:58:08.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Settings.vb",
+              "RelativeDocumentMoniker": "Settings.vb",
+              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Settings.vb",
+              "RelativeToolTip": "Settings.vb",
+              "ViewState": "AgIAACkBAAAAAAAAAIAwwDYBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-29T17:40:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tickets.vb",
+              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Tickets.vb",
+              "RelativeDocumentMoniker": "Tickets.vb",
+              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\Tickets.vb",
+              "RelativeToolTip": "Tickets.vb",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwHgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T18:57:06.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmPinPad.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmPinPad.vb",
               "RelativeDocumentMoniker": "frmPinPad.vb",
               "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\frmPinPad.vb [Dise\u00F1o]",
               "RelativeToolTip": "frmPinPad.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-14T19:39:11.684Z",
+              "WhenOpened": "2025-10-20T21:58:15.665Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiHSBC.vb",
-              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\ApiHSBC.vb",
-              "RelativeDocumentMoniker": "ApiHSBC.vb",
-              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\ApiHSBC.vb",
-              "RelativeToolTip": "ApiHSBC.vb",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TicketsHSBC.vb",
+              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\TicketsHSBC.vb",
+              "RelativeDocumentMoniker": "TicketsHSBC.vb",
+              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\TicketsHSBC.vb",
+              "RelativeToolTip": "TicketsHSBC.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-14T17:02:24.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "licenses.licx",
-              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\My Project\\licenses.licx",
-              "RelativeDocumentMoniker": "My Project\\licenses.licx",
-              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\My Project\\licenses.licx",
-              "RelativeToolTip": "My Project\\licenses.licx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-14T16:12:21.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\app.config",
-              "RelativeDocumentMoniker": "app.config",
-              "ToolTip": "C:\\Users\\martin.rodriguez\\Documents\\GitHub\\PindPad\\app.config",
-              "RelativeToolTip": "app.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-13T21:29:46.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T18:03:48.683Z"
             }
           ]
         }
